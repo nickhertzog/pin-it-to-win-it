@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 
 const GAME_SECONDS = 30;
 const FLASH_SECONDS = 2;
+const FLASH_ANSWERE_BASE_SECONDS = 5;
 const STARTING_LIVES = 3;
 const LEADERBOARD_KEY = "pinItToWinItLeaderboard";
 
